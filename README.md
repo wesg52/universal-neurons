@@ -48,4 +48,11 @@ Activations are similar, with binned activations histograms for each distributio
 
 
 ## Cite us
-TODO: add bibtex
+```
+@article{gurnee2024universal,
+  title={Universal neurons in gpt2 language models},
+  author={Gurnee, Wes and Horsley, Theo and Guo, Zifan Carl and Kheirkhah, Tara Rezaei and Sun, Qinyi and Hathaway, Will and Nanda, Neel and Bertsimas, Dimitris},
+  journal={arXiv preprint arXiv:2401.12181},
+  year={2024}
+}
+```
